@@ -99,7 +99,7 @@ I'm a passionate **Full Stack Developer** who loves turning ideas into reality t
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SajalDBansal&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## Activity Graph
+<!-- ## Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SajalDBansal&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
@@ -117,7 +117,7 @@ I'm a passionate **Full Stack Developer** who loves turning ideas into reality t
     <img src="https://github-stats-extended.vercel.app/api/pin?username=SajalDBansal&repo=SajalDBansal%2FCodePuppetAI&description_lines_count=2&theme=tokyonight" alt="centralized-exchange" />
   </a>
 </div>
----
+--- -->
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/SajalDBansal/SajalDBansal/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
